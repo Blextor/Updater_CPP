@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1659682913 source:c:\users\boldizsar\desktop\c++\updater3_server_sdl2\main.cpp
+	<vector>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<time.h>
+	<math.h>
+	<thread>
+	<WinSock2.h>
+	<WS2tcpip.h>
+	<system_error>
+	<windows.h>
+	<stdlib.h>
+	"Program.h"
+
+1620171898 c:\users\boldizsar\desktop\c++\updater3_server_sdl2\program.h
+	<vector>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<math.h>
+
+1659683632 source:c:\users\boldizsar\desktop\c++\updater3_server_sdl2\updater.cpp
+	"updater.h"
+
+1659682881 source:c:\users\boldizsar\desktop\c++\updater3_server_sdl2\program.cpp
+	"Program.h"
+	"common.h"
+	"updater.h"
+
+1633549306 c:\users\boldizsar\desktop\c++\updater3_server_sdl2\common.h
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_image.h>
+
+1633549429 c:\users\boldizsar\desktop\c++\updater3_server_sdl2\updater.h
+	<iostream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<fstream>
+	<iostream>
+	<WinSock2.h>
+	<WS2tcpip.h>
+	<system_error>
+	<windows.h>
+	<string>
+	<iterator>
+	<algorithm>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<thread>
+	<utility>
+	<winsock2.h>
+	<stdio.h>
+	<sstream>
+	<dirent.h>
+	<windows.h>
+	<fileapi.h>
+	<thread>
+	<mutex>
+

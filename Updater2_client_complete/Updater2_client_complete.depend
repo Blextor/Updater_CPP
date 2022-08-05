@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1659654477 source:c:\users\boldizsar\desktop\c++\updater2_client_complete\main.cpp
+	<iostream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<fstream>
+	<iostream>
+	<WinSock2.h>
+	<WS2tcpip.h>
+	<system_error>
+	<windows.h>
+	<string>
+	<iterator>
+	<algorithm>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<thread>
+	<utility>
+	<winsock2.h>
+	<stdio.h>
+	<sstream>
+	<sys/types.h>
+	<sys/stat.h>
+	<strsafe.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+
